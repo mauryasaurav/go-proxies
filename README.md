@@ -16,6 +16,8 @@ $ go run cmd/main.go
 ```
 
 
+    - [Go Imagick](https://github.com/gographics/imagick)
+
 # Conversion Service
 
 ## Setup Go Imagick
