@@ -14,3 +14,31 @@ $ cd go-proxies
 $ go mod tidy
 $ go run cmd/main.go
 ```
+
+
+# Conversion Service
+
+## Setup Go Imagick
+  
+### Mac OS X
+
+  ```
+  sudo port install ImageMagick
+  ```
+
+### Ubuntu / Debian
+
+  ```
+  sudo apt-get install libmagickwand-dev
+  ```
+
+#### Check Github Library for window
+
+    - [Go Imagick](https://github.com/gographics/imagick)
+
+
+### GO
+
+  ```
+  go run main.go
+  ```
