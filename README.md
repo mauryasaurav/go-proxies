@@ -1,7 +1,6 @@
 # go-proxies
 
 ### Pre-requisites
-- [Go Imagick](https://github.com/gographics/imagick)
 - [Gorm](https://github.com/go-gorm/gorm)
 - [Proxy](https://medium.com/swlh/proxy-server-in-golang-43e2365d9cbc)
 
@@ -15,31 +14,3 @@ $ cd go-proxies
 $ go mod tidy
 $ go run cmd/main.go
 ```
-
-
-    - [Go Imagick](https://github.com/gographics/imagick)
-
-# Conversion Service
-
-## Setup Go Imagick
-  
-### Mac OS X
-
-  ```
-  sudo port install ImageMagick
-  ```
-
-### Ubuntu / Debian
-
-  ```
-  sudo apt-get install libmagickwand-dev
-  ```
-
-#### Check Github Library for window
-- [Go Imagick](https://github.com/gographics/imagick)
-
-### GO
-
-  ```
-  go run main.go
-  ```
