@@ -35,7 +35,7 @@ $ go run cmd/main.go
 #### Check Github Library for window
 
     - [Go Imagick](https://github.com/gographics/imagick)
-    - [Go Imagick](https://github.com/gographics/imagick)
+    - [Imagick](https://github.com/gographics/imagick)
 
 
 ### GO
