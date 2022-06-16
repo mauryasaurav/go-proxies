@@ -1,6 +1,7 @@
 # go-proxies
 
 ### Pre-requisites
+- [Go Imagick](https://github.com/gographics/imagick)
 - [Gorm](https://github.com/go-gorm/gorm)
 - [Proxy](https://medium.com/swlh/proxy-server-in-golang-43e2365d9cbc)
 
@@ -35,10 +36,7 @@ $ go run cmd/main.go
   ```
 
 #### Check Github Library for window
-
-    - [Go Imagick](https://github.com/gographics/imagick)
-    - [Imagick](https://github.com/gographics/imagick)
-
+- [Go Imagick](https://github.com/gographics/imagick)
 
 ### GO
 
